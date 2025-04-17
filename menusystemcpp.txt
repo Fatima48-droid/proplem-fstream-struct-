@@ -1,0 +1,25 @@
+Student 1
+Name = ahmed
+Grades = 99 99 99 
+Age = 21
+Average = 99
+Student 2
+Name = Mohamed
+Grades = 88 88 88 
+Age = 23
+Average = 88
+Student 3
+Name = yassin
+Grades = 77 77 77 
+Age = 25
+Average = 77
+Student 4
+Name = sama
+Grades = 66 66 66 
+Age = 20
+Average = 66
+Student 5
+Name = asmaa
+Grades = 55 55 55 
+Age = 24
+Average = 55
